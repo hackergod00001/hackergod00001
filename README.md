@@ -25,7 +25,7 @@ More stuff about me
 
 I love sharing my knowledge and resources to help other developers to uderstand the importance of security, and that's why Upmanyu Jha Youtube Channel exists!
 
-#### Coding Stats
+### Your Skill Set
 
 <!--START_SECTION:waka-->
 ```text
