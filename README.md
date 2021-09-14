@@ -1,5 +1,7 @@
 # Hi I'm Upmanyu Jha (hackergod00001) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 I'm Upmanyu Jha Ethical Hacker, Developer and Content Creator on [Youtube](https://youtube.com/channel/UClPUbxsrbzTqmmdk3ILroDA). I Spend most of time coding outstanding projects and correcting them.
 
 :mailbox: Reach me out!
@@ -14,10 +16,10 @@ I'm Upmanyu Jha Ethical Hacker, Developer and Content Creator on [Youtube](https
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hackergod00001.hackergod00001)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
+
+
+More stuff about me
+
 
 <br>
 
@@ -38,9 +40,30 @@ CSS                  1 hr            ██████████████�
 Markdown             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 <!--END_SECTION:waka-->
+### Github Streaks
 
-#### Github Stats
+<p align="center">
+    <a href="https://github.com/hackergod00001/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hackergod00001's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hackergod00001&theme=merko&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-![hackergod00001's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackergod00001&show_icons=true&count_private=true&theme=merko&hide=contribs,prs)
+<br/>
 
-</details>
+### Github Stats
+
+![hackergod00001's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackergod00001&show_icons=true&count_private=true&theme=merko&hide=contribs&stroke=0000,prs)
+![hackergod00001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hackergod00001&langs_count=8&count_private=true&layout=compact&theme=merko&stroke=0000&hide_border=true)
+<br/>
+
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/hackergod00001/github-readme-activity-graph"><img alt="hackergod00001's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hackergod00001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
