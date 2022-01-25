@@ -2,11 +2,19 @@
 
 <p align="center"><img width="600px" height="auto" src="https://user-images.githubusercontent.com/54675828/133654174-b081f04a-8f46-4b86-9639-ff49ce5d4515.png" height="175px"/></p>
 
-I'm Upmanyu Jha Penetration Tester, Bug Bounty Hunter, Developer and Content Creator on [Youtube](https://youtube.com/channel/UClPUbxsrbzTqmmdk3ILroDA). I Spend most of time improving myself.
+<h3 align="center">I'm Upmanyu Jha Penetration Tester, Bug Bounty Hunter, Developer and Content Creator on <a href="https://youtube.com/channel/UClPUbxsrbzTqmmdk3ILroDA"  target="blank">Youtube</a>. I am a person who loves to explore, automate, break, learn, and hack all things!</h3>
+
 
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@UpmanyuJha-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/UpmanyuJha)](https://twitter.com/UpmanyuJha) [![Mail Badge](https://img.shields.io/badge/-UPMANYUJHA-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/channel/UClPUbxsrbzTqmmdk3ILroDA) [![Linkedin Badge](https://img.shields.io/badge/-upmanyujha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upmanyu-jha/) [![Mail Badge](https://img.shields.io/badge/-hackergod00001-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hackergod00001@gmail.com)
+
+```python3
+import os
+
+def greet():
+    print(f"Welcome {os.popen('whoami').read().strip()}!! 👋")
+```
 
 ### Want to know more...
 - :large_blue_circle: [My website/portfolio](https://ujhack-myportfolio.herokuapp.com/)
