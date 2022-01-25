@@ -2,7 +2,7 @@
 
 <p align="center"><img width="600px" height="auto" src="https://user-images.githubusercontent.com/54675828/133654174-b081f04a-8f46-4b86-9639-ff49ce5d4515.png" height="175px"/></p>
 
-I'm Upmanyu Jha Penetration Tester, Bug Bounty Hunter, Developer and Content Creator on [Youtube](https://youtube.com/channel/UClPUbxsrbzTqmmdk3ILroDA). I Spend most of time improving myslef.
+I'm Upmanyu Jha Penetration Tester, Bug Bounty Hunter, Developer and Content Creator on [Youtube](https://youtube.com/channel/UClPUbxsrbzTqmmdk3ILroDA). I Spend most of time improving myself.
 
 :mailbox: Reach me out!
 
