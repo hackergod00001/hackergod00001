@@ -1,6 +1,6 @@
 # Hi I'm Upmanyu Jha (hackergod00001) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<p align="center"><img width="600px" height="auto" src="https://user-images.githubusercontent.com/54675828/133654174-b081f04a-8f46-4b86-9639-ff49ce5d4515.png" height="175px"/></p>
+<p align="center"><img width="600px" height="auto" src="https://user-images.githubusercontent.com/54675828/152279421-6ce519ae-3243-40ba-bf73-5e64be59a2c4.png" height="175px"/></p>
 
 <h3 align="center">I'm Upmanyu Jha Penetration Tester, Bug Bounty Hunter, Developer and Content Creator on <a href="https://youtube.com/channel/UClPUbxsrbzTqmmdk3ILroDA"  target="blank">Youtube</a>. I am a person who loves to explore, automate, break, learn, and hack all things!</h3>
 
