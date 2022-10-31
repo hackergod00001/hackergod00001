@@ -17,7 +17,7 @@ def greet():
 ```
 
 ### Want to know more...
-- :large_blue_circle: [My website/portfolio](https://ujhack-myportfolio.herokuapp.com/)
+- :large_blue_circle: [My website/portfolio](https://hackergod00001.com)
 - :email: hackergod00001@gmail.com
 
 #### Profile Visits
